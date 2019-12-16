@@ -129,19 +129,10 @@
       <div class="content">
      
        @yield('content') 
-
-
-
-
+       
       </div>
 
-
-
-
-
-
-
-
+      
       <footer class="footer">
         <div class="container-fluid">
           <div class="copyright" id="copyright">

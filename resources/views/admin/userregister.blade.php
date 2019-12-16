@@ -2,8 +2,9 @@
 
 
 
+
 @section('title')
-        Register | Admin panel
+        Registeration Form | Admin panel
 @endsection
 
 @section('content')
@@ -12,7 +13,7 @@
     <div class="row justify-content-center">
         <div class="col-md-10">
             <div class="card">
-                {{-- <div class="card-header">{{ __('Register Users') }}</div> --}}
+                
                 <h3 class="card-header" >Register Users</h3>
 
                 <div class="card-body">
